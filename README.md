@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**CodeSage4/CodeSage4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**CodeSage4/CodeSage4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hi 👋, I'm B Bhakta Varun</h1>
 <h3 align="center">An aspiring developer from India!</h3>
