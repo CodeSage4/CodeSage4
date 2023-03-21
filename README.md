@@ -3,7 +3,7 @@
 
 <!--**CodeSage4/CodeSage4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1 align="center">Hi 👋, I'm B Bhakta Varun</h1>
+<h1 align="center"> I'm B Bhakta Varun</h1>
 <h3 align="center">An aspiring developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesage4&label=Profile%20views&color=0e75b6&style=flat" alt="codesage4" /> </p>
