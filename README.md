@@ -1,6 +1,6 @@
 ### Hello World 👋
 <h1 align="center"> I'm B Bhakta Varun</h1>
-<h3 align="center"> AI | Development | Design </h3>
+<h3 align="center"> Machine Learning | Development | Design </h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeSage4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
