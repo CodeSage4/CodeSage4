@@ -3,7 +3,7 @@
 <h3 align="center"> Machine Learning | Development | Design </h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeSage4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeSage4&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **computer vison and other Deep Learning Frameworks.**
 
