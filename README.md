@@ -51,4 +51,5 @@
 </p>
   
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeSage4&show_icons=true&theme=dark&locale=en&layout=compact" alt="CodeSage4" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeSage4&show_icons=true&theme=chalk&locale=en&layout=compact" alt="CodeSage4" /></p>
+
