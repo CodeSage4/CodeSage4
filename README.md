@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
-### Hello World 👋
+##### Hello World 👋
 <h1 align="center"> I'm B Bhakta Varun</h1>
-<h3 align="center"> Machine Learning | Development | Design </h3>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeSage4&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
