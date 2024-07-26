@@ -8,8 +8,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeSage4&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<img align="right" src="https://github.com/user-attachments/assets/fe8c5a98-adfc-49f0-a867-8a066f20dad1" width="200" height="auto" alt="programmer GIF">
 
-![programmer](https://github.com/user-attachments/assets/fe8c5a98-adfc-49f0-a867-8a066f20dad1)
 
 
 <!--img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif"-->   <!-->
