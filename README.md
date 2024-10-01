@@ -58,9 +58,8 @@
   
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeSage4&show_icons=true&locale=en" alt="CodeSage4" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=CodeSage4&show_icons=true&locale=en&theme=dracula" alt="CodeSage4" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSage4&theme=dracula" alt="CodeSage4" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSage4&" alt="CodeSage4" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeSage4&show_icons=true&theme=chalk&locale=en&layout=compact" alt="CodeSage4" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeSage4&show_icons=true&theme=dracula&locale=en&layout=compact" alt="CodeSage4" /></p>
