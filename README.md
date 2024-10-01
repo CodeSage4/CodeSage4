@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeSage4&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubelgeorge115&label=Profile%20views&color=0e75b6&style=flat" alt="jubelgeorge115" /> </p>
 
 <img align="right" src="https://github.com/CodeSage4/finale-of-the-deep/blob/main/programmer.gif" width="400" height="auto" alt="programmer GIF">
 
