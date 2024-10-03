@@ -62,12 +62,7 @@
 
 
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/CodeSage4/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CodeSage4&rank_icon=github&hide=contribs&theme=transparent" />
-  </a>
-  <a href="https://github.com/CodeSage4/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeSage4&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
+| <a href="https://github.com/CodeSage4/github-readme-stats"> <img height="200" src="https://github-readme-stats.vercel.app/api?username=CodeSage4&rank_icon=github&hide=contribs&theme=transparent" /> </a> | <a href="https://github.com/CodeSage4/convoychat"> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeSage4&theme=transparent&layout=compact&langs_count=8&card_width=320" /> </a> |
+|---|---|
+
 
