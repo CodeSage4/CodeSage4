@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **bhaktavarunbollapragada@gmail.com**
 
-- ### Did You Know? 🤔
+### Did You Know? 🤔
 <!-- FACT -->
 
 <br clear="right"/>
