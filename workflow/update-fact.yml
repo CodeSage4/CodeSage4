@@ -20,7 +20,10 @@ jobs:
       - name: Update README
         run: |
           FACT=$(cat random_fact.txt)
-          sed -i 's|<!-- FACT -->|$FACT|' README.md
+          # Escape special characters
+          ESCAPED_FACT=$(echo "$FACT" | sed 's/[&/\]/\\&/g')
+          # Replace the placeholder with the new fact
+          sed -i 's|<!-- FACT -->|Fun fact: '"$ESCAPED_FACT"'|g' README.md
 
       - name: Commit and Push Changes
         run: |
