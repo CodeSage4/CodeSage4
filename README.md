@@ -18,7 +18,7 @@
 - 📫 How to reach me: **bhaktavarunbollapragada@gmail.com**
 
   ### Did You Know?
-Fun fact: <!-- FACT -->
+Innovations in multi-agent systems are paving the way for more complex and cooperative AI applications. These systems allow multiple AI agents to work together, facilitating tasks that require coordination and communication. Such developments are essential for applications in robotics, simulations, and real-time decision-making
 
 <br clear="right"/>
 
