@@ -1,34 +1,34 @@
-name: Update Random Fact
+# name: Update Random Fact
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows manual trigger of the action
+# on:
+#   schedule:
+#     - cron: '0 0 * * *' # Runs every day at midnight
+#   workflow_dispatch: # Allows manual trigger of the action
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v2
 
-      - name: Fetch Random Fact
-        id: get_fact
-        run: |
-          curl -s https://api.aakhilv.me/fun/facts > random_fact.txt
+#       - name: Fetch Random Fact
+#         id: get_fact
+#         run: |
+#           curl -s https://api.aakhilv.me/fun/facts > random_fact.txt
 
-      - name: Update README
-        run: |
-          FACT=$(cat random_fact.txt)
-          # Escape special characters
-          ESCAPED_FACT=$(echo "$FACT" | sed 's/[&/\]/\\&/g')
-          # Replace the placeholder with the new fact
-          sed -i 's|<!-- FACT -->|Fun fact: '"$ESCAPED_FACT"'|g' README.md
+#       - name: Update README
+#         run: |
+#           FACT=$(cat random_fact.txt)
+#           # Escape special characters
+#           ESCAPED_FACT=$(echo "$FACT" | sed 's/[&/\]/\\&/g')
+#           # Replace the placeholder with the new fact
+#           sed -i 's|<!-- FACT -->|Fun fact: '"$ESCAPED_FACT"'|g' README.md
 
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Updated random fact"
-          git push
+#       - name: Commit and Push Changes
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           git add README.md
+#           git commit -m "Updated random fact"
+#           git push
