@@ -1,5 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](#)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # Hello World 👋  
 <h1 align="center"> I'm B Bhakta Varun</h1>
 
@@ -17,8 +19,13 @@
 
 - 📫 How to reach me: **bhaktavarunbollapragada@gmail.com**
 
-  ### Did You Know?
-Innovations in multi-agent systems are paving the way for more complex and cooperative AI applications. These systems allow multiple AI agents to work together, facilitating tasks that require coordination and communication. Such developments are essential for applications in robotics, simulations, and real-time decision-making
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+ # ✍️ Random Dev Quote
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+</div>
+
 
 <br clear="right"/>
 
